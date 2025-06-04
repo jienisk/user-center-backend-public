@@ -1,12 +1,7 @@
-# 鱼皮 - 用户中心项目
+# 杰尼 - 用户中心项目
 
-> 作者：[程序员鱼皮](https://github.com/liyupi)
+> 作者：[杰尼SK]
 
-本项目为 [编程导航知识星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 的原创全栈项目，后端代码开源。
-
-[加入星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 可获得该项目从 0 到 1 的完整视频教程 + 源码 + 笔记 + 答疑 + 简历写法 + 面试题解。
-
-![加入编程导航](./doc/加入编程导航.jpeg)
 
 
 ## 项目简介
